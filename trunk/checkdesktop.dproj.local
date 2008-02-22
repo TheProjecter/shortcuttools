@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/02/16 11:30:45.169.pas,C:\Users\gm\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\gm\Documents\RAD Studio\Projects\main.pas</Transaction>
+    <Transaction>2008/02/16 11:30:45.169.dfm,C:\Users\gm\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\gm\Documents\RAD Studio\Projects\main.dfm</Transaction>
+    <Transaction>2008/02/16 11:30:59.563.dproj,C:\Users\gm\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\gm\Documents\RAD Studio\Projects\checkdesktop.dproj</Transaction>
+    <Transaction>2008/02/16 16:08:56.133.pas,C:\Users\gm\Documents\RAD Studio\Projects\checkdesktop\Unit1.pas=C:\Users\gm\Documents\RAD Studio\Projects\checkdesktop\ShortcutIcon.pas</Transaction>
+  </Transactions>
+</BorlandProject>
